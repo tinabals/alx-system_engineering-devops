@@ -1,2 +1,2 @@
 #!/bin/bash
-alx project
+pwd
