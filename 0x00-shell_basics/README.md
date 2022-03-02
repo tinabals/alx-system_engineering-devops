@@ -1,2 +1,2 @@
 #!/bin/bash
-alx project
+realpath ./0-current_working_directory
