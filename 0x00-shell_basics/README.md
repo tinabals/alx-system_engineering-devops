@@ -1,2 +1,2 @@
 #!/bin/bash
-/c/Users/hp/alx-system_engineering-devops/0x00-shell_basics
+chmod 700 0-current_working_directory
