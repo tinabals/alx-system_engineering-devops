@@ -1,2 +1,2 @@
-./0-current_working_directory
-/c/Users/hp/alx-system_engineering-devops/0x00-shell_basics
+pwd
+/tmp/correction/8819650570967314147975071258536312098525_5/205/19554/0x00-shell_basics
