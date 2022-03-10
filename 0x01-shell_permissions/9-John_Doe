@@ -1,2 +1,3 @@
 #!/bin/bash
-case
+chmod 753 hello
+	
